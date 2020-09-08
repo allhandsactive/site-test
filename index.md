@@ -19,7 +19,7 @@ intro:
 
       **In-person public events** are discontinued.<br>
       **Public Hours** are suspended.<br>
-      **Classes** [are being held](https://www.meetup.com/AllHandsActive/events/) virtually.<br>
+      **Classes** are being held virtually. Visit our [events page](https://www.meetup.com/AllHandsActive/events/) for more details.<br>
       **Member access** is by **[reservation](/reservations)**.
 
 feature_row1:
