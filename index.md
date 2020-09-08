@@ -14,11 +14,13 @@ excerpt: "Ann Arbor's all-volunteer non-profit community makerspace."
 
 intro:
   - title: "COVID-19 status:"
-    excerpt: "AHA! continues to adapt policies concerning coronavirus:<br />
-      **In-person public events** are discontinued.<br />
-      **Public Hours** are suspended.<br />
-      **Classes** [are being held](https://www.meetup.com/AllHandsActive/events/) virtually.<br />
-      **Member access** is by **[reservation](/reservations)**."
+    excerpt: |-
+      AHA! continues to adapt policies concerning coronavirus:
+
+      **In-person public events** are discontinued.<br>
+      **Public Hours** are suspended.<br>
+      **Classes** [are being held](https://www.meetup.com/AllHandsActive/events/) virtually.<br>
+      **Member access** is by **[reservation](/reservations)**.
 
 feature_row1:
   - title: "What is a makerspace?"
