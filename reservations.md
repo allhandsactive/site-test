@@ -19,7 +19,7 @@ excerpt: "Reserve the space to ensure social distancing in the age of COVID-19."
 
 ## How to Use The Space
 
-All Hands Active is currently open to members by reservation only as required by law during the pandemic. Non-members may contact <info@allhandsactive.org> to schedule a visit.
+All Hands Active is currently open to members by reservation only during the pandemic. Non-members may contact <info@allhandsactive.org> to schedule a visit.
 
 The calendar below shows the availability of the space. Please check your time and then use the form to make a reservation.
 

@@ -13,3 +13,5 @@ main:
     url: /contact
   - title: "Reserve"
     url: /reservations
+  - title: "Supporters"
+    url: /supporters
