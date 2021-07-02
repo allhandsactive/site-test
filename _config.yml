@@ -8,8 +8,8 @@ description: >-
   Ann Arbor's Maker Space! Offering tools, resources, classes,
   meet-ups, events, and workspace for makers and hackers in the
   A2 and Ypsi area.
-baseurl: ''
-url: 'https://allhandsactive.org'
+baseurl: '/site-test'
+url: 'https://allhandsactive.github.io'
 repository: 'allhandsactive/site'
 
 
