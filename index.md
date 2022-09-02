@@ -15,7 +15,7 @@ excerpt: "Ann Arbor's all-volunteer non-profit community makerspace."
 intro:
   - title: "COVID-19 status:"
     excerpt: "AHA! continues to adapt policies concerning coronavirus:<br />
-      **In-person public events** are taking place. Current COVID-19 precautions at AHA are based on the CDC's Community Transmission Level for Washtenaw County (see [COVID-19 Policy](https://wiki.allhandsactive.org/COVID-19_Policies)).<br />
+      **In-person public events** are taking place. Current COVID-19 precautions at AHA are based on the CDC's Community Transmission Level for Washtenaw County.  See [COVID-19 Policy](https://wiki.allhandsactive.org/COVID-19_Policies).<br />
       **Public Hours** are currently 6-8 PM on Thursdays and 2-6 PM on Saturdays.  These are subject to change, so please use our [Meetup page](https://rhino.li/events) to verify the latest.<br />
       **Classes** [are being held](https://rhino.li/events) with a mix of virtual and in-person events.<br />
 
