@@ -46,4 +46,4 @@ AHA has been a special resource for many people, in ways seen and unseen. But we
 
 ![Member in front of laser cutter](/assets/images/laser cutting.jpeg)
 
-If you'd like to see us in action, check out our [events](https://www.meetup.com/AllHandsActive/events/) page for an upcoming class, or drop in during [public hours](/visit). Please help us spread the word, and share this on social media!
+If you'd like to see us in action, check out our [events](https://rhino.li/events) page for an upcoming class, or drop in during [public hours](/visit). Please help us spread the word, and share this on social media!
